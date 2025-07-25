@@ -1,5 +1,5 @@
 ### **ToDoList App**  
-**January 2025 – June 2025 | ByteDance**  
+**January 2025 – June 2025**  
 
 Built a functional ToDoList app with both command-line and graphical user interfaces, demonstrating skills in object-oriented programming and user interaction design.
 
